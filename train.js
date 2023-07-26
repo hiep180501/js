@@ -86,6 +86,7 @@ delete person.age
 for (const x of person) {
     
 }
+console.log(person);
 
 
 
